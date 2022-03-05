@@ -2,6 +2,8 @@
 
 Fall 2021 Software Engineering Project - Home Security System
 
+The diagrams describe a home security equipped with intruder detection, fire detection, alarms, a water sprinkler system, a video camera, a companion application, and notification service.
+
 # Component Diagram
 ![ScreenShot](Component_Diagram.png)
 
@@ -13,8 +15,3 @@ Fall 2021 Software Engineering Project - Home Security System
 
 # Behavior Diagram
 ![ScreenShot](Behavior_Diagram.png)
-
-
-
-
-
